@@ -1,0 +1,8 @@
+//
+// Created by Jax on 5/17/21.
+//
+
+#ifndef TOWEROFHANOIFINAL_COLOR_H
+#define TOWEROFHANOIFINAL_COLOR_H
+enum class color {RED=0, ORANGE, YELLOW, GREEN};
+#endif //TOWEROFHANOIFINAL_COLOR_H

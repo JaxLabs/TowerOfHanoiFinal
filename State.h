@@ -1,0 +1,12 @@
+//
+// Created by Jax on 5/17/21.
+//
+
+#ifndef TOWEROFHANOIFINAL_STATE_H
+#define TOWEROFHANOIFINAL_STATE_H
+
+
+enum class State {START, INTRO, GAME, ENDING};
+
+
+#endif //TOWEROFHANOIFINAL_STATE_H
